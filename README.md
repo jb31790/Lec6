@@ -32,6 +32,6 @@ Lecture 6
 `"You ordered a pizza with 3 toppings at $2 each. The total cost is $16."`
 
 *Hints:*
-    - Utilize addition (`+`) and multiplication (`*`) operators in your calculations.
-    - Make use of variables to store the base price, topping price, and number of toppings for improved flexibility and code readability.
-    - Feel free to experiment by changing the values of these variables to observe different outcomes.
+- Utilize addition (`+`) and multiplication (`*`) operators in your calculations.
+- Make use of variables to store the base price, topping price, and number of toppings for improved flexibility and code readability.
+- Feel free to experiment by changing the values of these variables to observe different outcomes.
